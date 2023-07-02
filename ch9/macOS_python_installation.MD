@@ -1,4 +1,4 @@
-## Tutorial: Installing Python and Jupyter Notebooks on Mac
+## Installing Python and Jupyter Notebooks on Mac
 
 ### Step 1: Download Python
 
