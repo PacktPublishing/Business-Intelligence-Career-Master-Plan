@@ -1,6 +1,6 @@
 ## Installation Instructions for Windows 
 
-1.  Download Python 
+### 1.  Download Python 
 
 Open a web browser and go to the official Python website: https://www.python.org/. 
 
@@ -12,7 +12,7 @@ Click on the download link for the Windows installer that matches your system ar
 
 Once the download is complete, run the installer. 
 
-2.  Installing Python 
+### 2.  Installing Python 
 
 Run the Python installer that you downloaded in the previous step. 
 
@@ -22,7 +22,7 @@ The installer will start installing Python on your system. This process may take
 
 Once the installation is complete, you will see a "Setup was successful" message. Click on the "Close" button. 
 
-3.  Verify Python Installation 
+### 3.  Verify Python Installation 
 
 Open the Command Prompt by pressing the Windows key + R, typing "cmd", and hitting Enter. 
 
@@ -36,7 +36,7 @@ In the Command Prompt, type the following command and press Enter:
 
    This command will display the version of Python installed on your system. If it shows the version number (e.g., Python 3.9.7), Python is successfully installed. 
 
-4.  Installing Jupyter Notebooks 
+### 4.  Installing Jupyter Notebooks 
 
 Open the Command Prompt. 
 
@@ -50,11 +50,11 @@ In the Command Prompt, type the following command and press Enter:
 
    This command will install Jupyter Notebooks using the pip package manager. 
 
-5.  Launching Jupyter Notebooks 
+### 5.  Launching Jupyter Notebooks 
 
-1. Open the Command Prompt. 
+i. Open the Command Prompt. 
 
-2. In the Command Prompt, type the following command and press Enter: 
+ii. In the Command Prompt, type the following command and press Enter: 
 
    ```python 
 
@@ -64,12 +64,10 @@ In the Command Prompt, type the following command and press Enter:
 
    This command will start the Jupyter Notebook server. 
 
-3. The Jupyter Notebook interface will open in your default web browser. 
+iii. The Jupyter Notebook interface will open in your default web browser. 
 
-4. You can create a new notebook by clicking on the "New" button and selecting "Python 3" under the "Notebooks" section. 
+iv. You can create a new notebook by clicking on the "New" button and selecting "Python 3" under the "Notebooks" section. 
 
-5. You can now start writing code in Jupyter Notebooks. 
+v. You can now start writing code in Jupyter Notebooks. 
 
- 
-
-Now that you have successfully downloaded and installed Python, as well as Jupyter Notebooks, on your Windows machine you are ready for the Python data wrangling tutoria
+Now that you have successfully downloaded and installed Python, as well as Jupyter Notebooks, on your Windows machine you are ready for the Python data wrangling tutorial!
