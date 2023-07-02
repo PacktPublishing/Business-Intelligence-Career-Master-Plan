@@ -1,4 +1,4 @@
-### How to download and install Tableau Desktop using the free trial on macOS
+## How to download and install Tableau Desktop using the free trial on macOS
 
 **Step 1: Download Tableau Desktop**
 - Open your web browser and go to the Tableau website at [www.tableau.com](https://www.tableau.com/).
