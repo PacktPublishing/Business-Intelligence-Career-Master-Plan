@@ -1,6 +1,6 @@
-Installation Instructions for Windows 
+## Installation Instructions for Windows 
 
-Download Python 
+1.  Download Python 
 
 Open a web browser and go to the official Python website: https://www.python.org/. 
 
@@ -12,7 +12,7 @@ Click on the download link for the Windows installer that matches your system ar
 
 Once the download is complete, run the installer. 
 
-Installing Python 
+2.  Installing Python 
 
 Run the Python installer that you downloaded in the previous step. 
 
@@ -22,7 +22,7 @@ The installer will start installing Python on your system. This process may take
 
 Once the installation is complete, you will see a "Setup was successful" message. Click on the "Close" button. 
 
-Verify Python Installation 
+3.  Verify Python Installation 
 
 Open the Command Prompt by pressing the Windows key + R, typing "cmd", and hitting Enter. 
 
@@ -36,7 +36,7 @@ In the Command Prompt, type the following command and press Enter:
 
    This command will display the version of Python installed on your system. If it shows the version number (e.g., Python 3.9.7), Python is successfully installed. 
 
-Installing Jupyter Notebooks 
+4.  Installing Jupyter Notebooks 
 
 Open the Command Prompt. 
 
@@ -50,7 +50,7 @@ In the Command Prompt, type the following command and press Enter:
 
    This command will install Jupyter Notebooks using the pip package manager. 
 
-Launching Jupyter Notebooks 
+5.  Launching Jupyter Notebooks 
 
 1. Open the Command Prompt. 
 
