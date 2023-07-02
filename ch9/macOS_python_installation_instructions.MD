@@ -48,4 +48,4 @@
 
 Congratulations! You have successfully downloaded and installed Python, as well as Jupyter Notebooks, on your Mac machine. You are now ready to start using Jupyter Notebooks for Python programming and data analysis.
 
-Remember to periodically update Python and Jupyter Notebooks to the latest versions to take advantage of new features and security updates.
+You can periodically update Python and Jupyter Notebooks to the latest versions to take advantage of new features and security updates.
