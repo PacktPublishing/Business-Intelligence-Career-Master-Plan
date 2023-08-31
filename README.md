@@ -57,7 +57,7 @@ With the following software and hardware list you can run all code files present
 
 * Tableau Desktop Specialist Certification[[Packt]](https://www.packtpub.com/product/tableau-desktop-specialist-certification/9781801810135?utm_source=github&utm_medium=repository&utm_campaign=9781801810135) [[Amazon]](https://www.amazon.com/dp/1801810133)
 
-## Get to Know the Author
+## Get to Know the Authors
 **Eduardo Chavez i**
 is a Business Intelligence professional with over 18 years of industry experience and 
 hails from Mazatlan, Mexico. He is a certified GCP professional data engineer who has extensively 
